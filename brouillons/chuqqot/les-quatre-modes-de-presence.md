@@ -1,6 +1,6 @@
 # Les quatre modes de présence d'**ʾAdonai** dans l'**ʿolam**
 
-*(chuqqah — la première du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
@@ -118,7 +118,7 @@ dure. Il fallait donc autre chose.
 ### Deuxième support : assumé
 
 Le **davar** de **YHWH** est vivant au point qu'il ne pouvait plus s'accomplir
-que par ==l'incarnation sans fin== d'un fils de l'**ʾadam** : un vrai **basar**,
+que par ==l'incarnation sans fin== d'un fils de **ha-ʾAdam** : un vrai **basar**,
 un vrai **Nefesh**, une vraie mort, une vraie résurrection.
 
 Et il faut voir pourquoi un **malʾakh** ne pouvait pas le porter, parce que c'est
@@ -134,7 +134,7 @@ conduire ; il ne peut pas ==traverser== ce qu'il ne subit pas.
 
 Et voici la différence décisive avec la strate précédente : celui-là ==ne rend
 pas son **ʿolam** après sa mission==. Il le glorifie et il le garde, pour une
-durée dont un fils de l'**ʾadam** ne peut pas percevoir la limite — ce qui est
+durée dont un fils de **ha-ʾAdam** ne peut pas percevoir la limite — ce qui est
 exactement ce que le mot **ʿolam** dit quand il porte sur le temps.
 
 ### Troisième support : un peuple

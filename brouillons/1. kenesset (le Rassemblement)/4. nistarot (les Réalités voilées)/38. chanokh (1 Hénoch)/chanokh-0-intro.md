@@ -8,7 +8,7 @@
 Titre & **Shem** — *Chanokh* (חֲנוֹךְ) : de *chanakh* (חָנַךְ), ==inaugurer, mettre en service==. Le **Shem** dit le passage de l'achevé au servant — l'instant où une chose bâtie commence à faire ce pour quoi elle a été bâtie. La fiche de [[Chanokh-qui-marche-avec-Elohim]] en porte le détail, et une seconde lecture que le corpus tire du même mot : ==le dédicacé, l'initié== — celui qu'on a ouvert à ce qu'il ne verrait pas seul.
 *Régime d'auteur* — Restitution (récit sous le **Shem** de [[Chanokh-qui-marche-avec-Elohim]] — *voir plus bas*).
 *Thème* — Que vit celui que **ʾElohim** prit, et qui ne mourut pas ?
-*Date d'émergence* — les jours d'avant le **mabbul**, à la septième génération depuis l'**ʾadam** : ce que *Bereshit* 5 contracte en six versets.
+*Date d'émergence* — les jours d'avant le **mabbul**, à la septième génération depuis l'**ʾAdam** : ce que *Bereshit* 5 contracte en six versets.
 *Date de transmission* — courante au Second Temple, et pas marginalement : Qumrân en garde plusieurs copies, *Yovelim* la connaît, l'*Igeret Yehudah* la cite comme **davar**.
 *Date de consignation* — araméen, IIIᵉ–Iᵉʳ siècle avant l'ère, par couches — le *Livre des Veilleurs* étant la plus ancienne.
 

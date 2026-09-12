@@ -1,13 +1,13 @@
 # Le **naviʾ** est un **malʾakh** avec un **ʿolam** d'argile
 
-*(chuqqah — cinquième du corpus)*
+*(chuqqah — son rang est déclaré dans la feuille d'introduction, et nulle part ailleurs)*
 
 ---
 
 ## L'énoncé
 
 Un **malʾakh** et un **naviʾ** font ==exactement le même geste== : recevoir un
-**davar** d'en haut, le porter à l'**ʾadam**.
+**davar** d'en haut, le porter à l'**ʾAdam**.
 
 La différence n'est pas de rang. Elle est dans ==ce qui reste quand la mission
 s'arrête==.

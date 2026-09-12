@@ -55,7 +55,7 @@ Sa réponse n'est pas l'annihilation, mais l'*exil* : l'humanité survit — mai
 
 ## Vue d'ensemble
 
-Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade — la première mort — et rassemble ses enfants, qui ne connaissent pas encore la douleur. [[Chavah]] et [[Shet]] vont supplier à la porte d'Eden l'onction de l'arbre de la Vie ; une bête se dresse contre [[Shet]] en chemin, et l'envoyé céleste refuse : le temps fixé n'est pas venu. De retour, *==Chavah== témoigne* : elle dit comment le serpent les a fait dévier, et comment ils furent dénudés de la **kavod**. Puis Adam meurt — il rend la **Neshamah**, retourne à la poussière, descend au **Sheʾol** ; les luminaires s'obscurcissent ; ses fils l'ensevelissent dans l'enceinte d'Eden. [[Chavah]] meurt à son tour, et repose auprès de lui ; la mémoire de la gloire perdue demeure parmi leurs fils.
+Le livre suit l'arc de la fin d'Adam. **ʾAdam**, au terme de sa mesure, tombe malade — la première mort — et rassemble ses enfants, qui ne connaissent pas encore la douleur. [[Chavah]] et [[Shet]] vont supplier à la porte d'Eden l'onction de l'arbre de la Vie ; une bête se dresse contre [[Shet]] en chemin, et l'envoyé céleste refuse : le temps fixé n'est pas venu. De retour, *==Chavah== témoigne* : elle dit comment le serpent les a fait dévier, et comment ils furent dénudés de la **kavod**. Puis **ʾAdam** meurt — il rend la **Neshamah**, retourne à la poussière, descend au **Sheʾol** ; les luminaires s'obscurcissent ; ses fils l'ensevelissent dans l'enceinte d'Eden. [[Chavah]] meurt à son tour, et repose auprès de lui ; la mémoire de la gloire perdue demeure parmi leurs fils.
 
 ## Caractéristiques particulières
 
@@ -63,15 +63,15 @@ Le livre suit l'arc de la fin d'Adam. Adam, au terme de sa mesure, tombe malade 
 |---|---|---|
 | La **kavod** perdue | la nudité découverte n'est pas celle du corps mais le dépouillement de la gloire fonctionnelle | *kol kevod Adam* — Qumrân (1QS 4:22-23 ; CD 3:20 ; 1QHᵃ 4:14-15) ; 4Q504 ; Ben Sira 49:16 |
 | *Rupture → mort* | la mort entrée par la **chattat** ; retour à la poussière, non envol de l'âme | *Bereshit* 2-3 ; *Jubilés* 4:29-30 |
-| *Eden-sanctuaire / sépulture* | Adam enseveli dans l'enceinte d'où il fut tiré | *Jubilés* 8:19 ([[ʿEden]] = Saint des Saints) ; 4:29 |
-| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**ʾadam** dé-glorifié — le négatif de *radah* | *Genèse* 1:26-28 |
+| *Eden-sanctuaire / sépulture* | **ʾAdam** enseveli dans l'enceinte d'où il fut tiré | *Jubilés* 8:19 ([[ʿEden]] = Saint des Saints) ; 4:29 |
+| *Les vivants désalignés* | les bêtes ne reconnaissent plus l'**ʾAdam** dé-glorifié — le négatif de *radah* | *Genèse* 1:26-28 |
 | *La transmission* | [[Shet]] garde la mémoire de la gloire perdue | Josèphe, *Ant.* 1.70-71 |
 
 Le motif de la **kavod** perdue est le centre de gravité : retrouvé verbatim en hébreu à Qumrân, il prouve que la reconstruction *recouvre* un réel plutôt qu'elle ne le projette.
 
 ## Échos dans la Berit Hadashah
 
-*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* La *Berit Hadashah* réactive fortement la matière adamique : le « dernier Adam » et l'« homme premier » (*El HaQorintiyim* — 1 Co 15), le corps de gloire, le dépouillement et le revêtement. Ce sont des *lectures rétrospectives* : légitimes ici, dans l'introduction, comme résonances du corpus ; écartées du récit lui-même, où Adam et Chavah parlent depuis *leur* temps, non depuis Shaul.
+*(Voix méta — ces échos éclairent le livre du dehors ; ils n'entrent pas dans le corps de la reconstruction.)* La *Berit Hadashah* réactive fortement la matière adamique : le « dernier **ʾAdam** » et l'« homme premier » (*El HaQorintiyim* — 1 Co 15), le corps de gloire, le dépouillement et le revêtement. Ce sont des *lectures rétrospectives* : légitimes ici, dans l'introduction, comme résonances du corpus ; écartées du récit lui-même, où **ʾAdam** et Chavah parlent depuis *leur* temps, non depuis Shaul.
 
 Une convergence, elle, est plus qu'un écho : Shaul dit que *l'accusateur se transfigure en envoyé de lumière* (*El HaQorintiyim* — 2 Co 11:14) — exactement la seconde approche de **ha-satan**, et il en tire peut-être de cette tradition même. Là, la résonance ne projette rien : elle *corrobore* un réel que le livre porte — ce pourquoi ce motif, lui, entre au corps. De même, la *Berit Hadashah* re-corrobore d'autres réels qu'un premier filtrage avait coupés à tort : *==Mikhaʾel== ministre à la sépulture d'un juste* (Yehudah 9 ; Luqas 16:22), l'*immersion de retour* (Yohanan, Marqus 1:4), la *vision du char* (2 Co 12 ; Ez 1).
 
@@ -91,5 +91,5 @@ Mais toute résonance n'entre pas au corps. Yohanan reconnaît *après coup* que
 - **tevilah** (*tevilah* / טְבִילָה) — *intraduisible neuf* : l'immersion de retour (le mikveh ; l'immersion de Yohanan, Marqus 1:4) — non « baptême » ni « bain ».
 - **merkavah** (*merkavah* / מֶרְכָּבָה) — *intraduisible* : le trône-char de **YHWH** **ʾElohim** vu en vision (Yehezqel, Ez 1) — déjà nommé au CLAUDE.md ; premier emploi en corps de texte ici.
 - [[Mikhaʾel]] — *premier envoyé céleste nommé de l'ONT* : nom propre (sans gras), fonctionnellement un **malʾakh** (non « ange »).
-- *Noms propres* (Adam, [[Chavah]], [[Shet]], [[Hevel]], [[Qayin]]) — sans gras, niveau 3 + glose à la première occurrence.
+- *Noms propres* (**ʾAdam**, [[Chavah]], [[Shet]], [[Hevel]], [[Qayin]]) — sans gras, niveau 3 + glose à la première occurrence.
 - *Fondations parallèles* : *Bereshit* 2 (Eden-Temple, *Neshamah*, *ish* / *ishah*) et *Bereshit* 3 (le *nachash*, *tov vara*, la nudité, les [[Keruvim]], l'arbre de la Vie).
