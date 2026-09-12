@@ -64,9 +64,26 @@ La seconde est un ==niphal==, la forme réfléchie (§3.4) : non pas régner, ma
 ==tenir conseil avec soi-même==, délibérer avant d'agir. Un seul emploi dans
 tout le corpus.
 
-La parenté n'est peut-être pas fortuite, et l'ONT ne tranche pas : décider et
-régner se touchent. Mais ==ce sont deux entrées==, et les confondre reviendrait
-à faire dire au verbe une psychologie qu'il n'a pas.
+==Ce sont deux entrées==, et il faut les garder telles. Mais la parenté n'est
+pas fortuite, et l'ONT la lit : ==c'est le même geste, tourné vers le dedans==.
+
+Reprends ce que le verbe fait. Il ne dit pas l'exercice du pouvoir, il dit
+==prendre la place== — le moment où quelqu'un s'établit là où il faut que
+quelqu'un soit. Le niphal ne change pas l'opération, il change ==le siège== :
+l'homme qui *vayimmalekh* ne monte sur aucun trône, il ==s'assied en lui-même==
+et statue.
+
+Tiens-toi dans la scène. Nechemyah apprend que les siens ont mis leurs frères
+en gage pour du blé. La colère lui monte — et le texte ne dit pas qu'il a
+réfléchi. Il dit qu'il ==a pris place en lui== avant de parler aux notables. Ce
+n'est pas une délibération de commission : c'est un homme qui ==occupe son
+propre siège== pour pouvoir juger, et qui ne l'aurait pas fait s'il avait parlé
+sous le coup.
+
+Un seul emploi dans tout le corpus, et c'est peu pour bâtir. Mais le français
+rend ce verbe par « il prit conseil », ce qui laisse entendre qu'il en a
+demandé à quelqu'un — ==alors que l'hébreu dit exactement l'inverse==, et que
+la racine dit de qui.
 
 ## Pourquoi cette fiche existe séparément
 

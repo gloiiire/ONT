@@ -131,7 +131,7 @@ Le réglage *Chapitre* / *Parashah* de l'app et du site n'est donc pas une préf
 - `**kavod**` / `**Kavod**`
 - `**Tahor**` / `**tahor**` / `**lo tahor**`
 - `**ʿOlah**` / `**ʿolah**` / `**ʿOlot**` / `**ʿolot**`
-- `**L'Être façonné du sol**` / `**l'Être façonné du sol**` (Bereshit 1-7 ; et tout récit en régime antédiluvien, avant le **mabbul** — ex. *Sefar Gibbaraya*). ==Ne vise que le générique== *ha-adam* / *benei ha-adam* (l'humanité). Le ==nom propre== Adam d'un individu (le personnage, ex. *Toledot Adam ve-Chavah*) reste un ==nom propre== (§4.12) — ni traduit, ni balisé.
+- `**L'Être façonné du sol**` / `**l'Être façonné du sol**` (Bereshit 1-7 ; et tout récit en régime antédiluvien, avant le **mabbul** — ex. *Sefar Gibbaraya*). ==Ne vise que le générique== *ha-adam* / *benei ha-adam* (l'humanité), ==et seulement dans cette ère== : à partir de *Bereshit* 8, c'est `**ʾadam**`. Le personnage nommé ==relève de la même entrée== — voir la puce suivante.
 - `**ʾadam**` (Bereshit 8 et suivants)
 - `**mabbul**` — terme technique du déluge de Noach, utilisé sans traduction française dans le corps du texte à partir de Bereshit 8
 - `**nacham**`. Premier emploi *Genèse* 5:29.
@@ -569,11 +569,21 @@ quelque chose, sans pouvoir l'atteindre. Or un **Shem** *porte* : ==Avraham==
 est « père d'une multitude », ==Peleg== le partage. La marque signalait un sens
 sans jamais le donner.
 
-**Deux noms lui échappaient, et ils échappent encore à la nouvelle couche.**
-`Shem` et `Adam` sont tantôt noms propres, tantôt intraduisibles — le fils de
-Noach et l'acte d'existence ; le personnage de *Toledot* et le générique de
-*Bereshit* 8+. La casse ne les sépare pas. C'est un arbitrage verset par verset,
-réservé à l'auteur.
+**Un seul nom lui échappe encore.** `Shem` est tantôt nom propre, tantôt
+intraduisible — le fils de Noach et l'acte d'existence. La casse ne les sépare
+pas : c'est un arbitrage verset par verset, réservé à l'auteur.
+
+`Adam` figurait ici, et il en sort le 12 septembre 2026. La question était mal
+posée : ==il n'y avait pas deux mots à départager==. Le §3.2 porte la décision et
+sa raison ; 68 occurrences ont été converties, dont 83 % dans *Toledot Adam
+ve-Chavah*, le seul livre où le personnage paraissait nu.
+
+Le relevé qui l'a montré mérite d'être gardé, car il a ==disqualifié le critère
+qu'on croyait décisif==. L'article devait trancher : *ha-ʾadam* pour l'espèce,
+*ʾadam* nu pour la personne. Mesuré sur le témoin, il sépare autre chose — dans
+*Bereshit* l'article domine 36 contre 11, et dans le reste du corpus le rapport
+==s'inverse==, 414 sans article contre 138. Il distingue donc un usage de
+*Bereshit* d'un usage des autres livres, non une personne d'une espèce.
 
 **Un effet à connaître, qui vaut pour la couche des Shemot.** Sur un chapitre
 patriarcal, « Avraham » paraît jusqu'à 186 fois : la page devient très colorée.
@@ -1718,8 +1728,9 @@ quand 1 *Chanokh* sera écrit.==
 
 - **Les homographes restent à l'auteur.** `Shem` le fils de Noach est un
   **Shem** ; `**Shem**` l'acte d'existence est un intraduisible. Même mot, deux
-  couches. La casse ne les sépare pas — c'est un arbitrage verset par verset,
-  déjà signalé au §2.5 bis pour `Adam`.
+  couches. La casse ne les sépare pas — c'est un arbitrage verset par verset.
+  `Adam` était ici son jumeau ; il n'en est plus un depuis le 12 septembre 2026,
+  le personnage et l'espèce ayant été reconnus comme ==un seul mot== (§3.2).
 - **Le niveau 3 ne double pas la marque.** Dans `(*Chanokh* / חֲנוֹךְ)`, le nom
   est déjà porté ; on ne le remarque pas.
 - **`==…==` garde tout le reste** : les mots que le texte nomme solennellement
@@ -2023,7 +2034,7 @@ Ce glossaire est **immuable**. Chaque terme hébreu a sa traduction française f
 | שָׁמַיִם | *shamayim* | **shamayim** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « Cieux » est retiré : le français impose un pluriel de majesté là où l'hébreu n'a ==pas de singulier du tout==, et il traîne l'idée d'une destination après la mort que le §4.7 filtre. |
 | אֶרֶץ | *ʾeretz* | **ʾeretz** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « Terre » est retiré : il faisait choisir à chaque verset entre ==le pays d'un peuple== et ==l'étendue sous les Cieux==, que l'hébreu dit d'un seul mot. |
 | אֲדָמָה | *ʾadamah* | **ʾadamah** | Intraduisible depuis le 12 septembre 2026 — la puce du §2.5 porte l'entrée. Le rendu « sol concret » était juste et ==perdait la parenté avec **ʾadam**==, que l'hébreu écrit dans les lettres. |
-| אָדָם | *ʾadam* | l'Être façonné du sol (Bereshit 1-7) / **ʾadam** intraduisible (Bereshit 8+) | Bereshit 1-7 : traduit "l'Être façonné du sol" pour rendre visible l'étymologie adamah/adam. Bereshit 8+ : intraduisible — laissé en hébreu en gras. Dans les contextes légaux et covenantaux de Gn 9, ha-adam désigne l'humanité dans son universalité ; la périphrase complète brise les chiasmes et alourdit la formulation du droit divin. Décision actée en Bereshit 8, v.5. Extension : le critère est l'ère, non le livre — dans un récit hors *Bereshit* mais en régime antédiluvien (avant le **mabbul**, ex. *Sefar Gibbaraya*), la périphrase "l'Être façonné du sol" vaut également, car c'est l'ère de *Bereshit* 1-7. ==Distinction essentielle== : la périphrase rend le ==générique== *ha-adam* / *benei ha-adam* (l'humanité, l'espèce). Le ==nom propre== Adam d'un personnage individuel (ex. *Toledot Adam ve-Chavah*, où Adam et Chavah sont des personnes nommées) demeure un ==nom propre== (§4.12) — ni traduit, ni balisé, glosé à la première occurrence. |
+| אָדָם | *ʾadam* | l'Être façonné du sol (Bereshit 1-7) / **ʾadam** intraduisible (Bereshit 8+) | Bereshit 1-7 : traduit "l'Être façonné du sol" pour rendre visible l'étymologie adamah/adam. Bereshit 8+ : intraduisible — laissé en hébreu en gras. Dans les contextes légaux et covenantaux de Gn 9, ha-adam désigne l'humanité dans son universalité ; la périphrase complète brise les chiasmes et alourdit la formulation du droit divin. Décision actée en Bereshit 8, v.5. Extension : le critère est l'ère, non le livre — dans un récit hors *Bereshit* mais en régime antédiluvien (avant le **mabbul**, ex. *Sefar Gibbaraya*), la périphrase "l'Être façonné du sol" vaut également, car c'est l'ère de *Bereshit* 1-7. ==Le personnage et l'espèce sont le même mot== — décision de l'auteur du 12 septembre 2026. L'hébreu n'a pas de majuscule, et ce n'est pas une lacune de graphie : celui de *Bereshit* 2 s'appelle ainsi ==parce qu'il est== l'*ʾadam* tiré de l'*ʾadamah*. Le ==nom propre== y est la désignation de la nature, non une étiquette posée dessus. Séparer les deux importerait l'*onoma* grec, où le nom est une convention détachable de ce qu'il nomme. Le corpus dit d'ailleurs *benei ha-ʾadam* en visant littéralement celui-là, et c'est ce qui rend lisible son vis-à-vis — *benei ha-ʾElohim*, *Genèse* 6:2 : deux lignées nommées par ce dont elles sortent. On écrit donc `**ʾadam**` ==partout==, personnage compris, et `**ʾAdam**` quand la phrase s'ouvre sur lui — ==le précédent est celui de **tov varaʿ**== au §2.5. La majuscule ne distingue plus rien : elle n'est plus que la ponctuation du français. |
 | אִשָּׁה / אִישׁ | *ishah* / *ish* | Ishah / Ish | Intraduisible. Non pas "femme/homme" au sens social. L'ishah est édifiée (banah) pour faire face à l'ish — "os de mes os, chair de ma chair." Le lien ish/ishah est une alliance de l'être même. *Ishto* = sa ishah (forme possessive). *Eshet* = ishah de (forme construite). *Neshei* = pluriel construit. Laissé en hébreu comme Ruach et Nefesh. ==RÈGLE ABSOLUE — accord du possessif : toujours "ta/sa/ma ishah", jamais "ton/son/mon ishah" même devant voyelle. Le hiatus est délibéré — il rend le genre féminin visible. Erreur récurrente à ne jamais reproduire.== |
 | נֶפֶשׁ | *nefesh* | Nefesh | Intraduisible. Non pas "l'âme" grecque — le principe vital concret et incarné. Toujours laissé en hébreu. |
 | צֶלֶם | *tselem* | représentant fonctionnel | Statue représentative d'un roi. L'être humain est le tselem d'Elohim sur la Terre. |
