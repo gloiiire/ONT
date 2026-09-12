@@ -2301,6 +2301,71 @@ Certains nombres hébreux sont des **unités fonctionnelles**, non des durées p
 
 **Exemple appliqué :** *achi Yafet haggadol* (*Genèse* 10:21) — haggadol peut qualifier Yafet ("le frère de Yafet-l'aîné") ou qualifier achi ("le frère aîné de Yafet"). Le texte ne résout pas l'ordre de naissance — la glose présente les deux lectures sans trancher.
 
+#### Quand le français n'a aucune forme neutre — 12 septembre 2026
+
+**Tout ce qui précède suppose qu'une formulation ouverte existe.** Le §4.11 dit
+de *« choisir une formulation française qui ne ferme pas l'ambiguïté quand c'est
+possible »* — et il y a une famille de cas où ==ce n'est jamais possible==, parce
+que l'écriture française oblige à trancher avant même qu'on ait choisi ses mots.
+
+Ce n'est plus alors une ambiguïté ==de l'hébreu== qu'il faut restituer : c'est
+une distinction ==que le français impose== et que l'hébreu ne fait pas. Les deux
+se ressemblent et ne se traitent pas pareil.
+
+**Le cas fondateur est la majuscule**, et il a été trouvé en s'y trompant.
+
+L'hébreu n'a pas de majuscule. Ce n'est pas une lacune de graphie : c'est qu'il
+ne distingue pas, à la lettre, le nom d'une personne du nom d'une espèce. Le
+français, lui, ==n'a aucun état muet== — tout nom écrit est capitalisé ou ne
+l'est pas, et les deux affirment quelque chose :
+
+    ʾAdam    le français affirme : c'est une personne
+    ʾadam    le français affirme : c'est une espèce, pas une personne
+    אָדָם     l'hébreu n'affirme ni l'un ni l'autre
+
+**Le piège est que l'une des deux fermetures se voit et l'autre non.** La
+majuscule saute aux yeux, donc on la reconnaît comme un choix ; la minuscule
+==passe pour l'absence de choix==, alors qu'elle en est un aussi. Un raisonnement
+qui oppose *« celle-ci résout »* à *« celle-là laisse ouvert »* est donc
+suspect par construction — ==il faut vérifier que la seconde est réellement
+neutre==, et le plus souvent elle ne l'est pas : elle est seulement la fermeture
+la moins visible.
+
+C'est exactement ce qui s'est produit le 12 septembre 2026. J'ai proposé la
+minuscule ==au motif qu'elle n'affirmait rien==, converti soixante-huit
+occurrences d'un livre verrouillé sur cet argument, et l'auteur a relevé la
+faute : *« le simple fait de mettre en minuscule c'est un choix énorme — ça
+résout un flottement que l'hébreu porte par son absence de majuscule »*. La
+passe a été défaite.
+
+**La règle : le corps prend la forme forcée, et la glose dit qu'elle l'est.**
+
+Il faut bien écrire quelque chose, donc on choisit — sur le critère de ==la
+fermeture qui coûte le moins==, mesurée et non déduite. Mais ce choix ne peut
+pas rester muet : le lecteur qui voit une minuscule la lira comme une donnée du
+texte, et il aura tort. La glose lui dit que ==le français a été forcé==, selon
+les formules que le §4.11 donne déjà : *« l'hébreu ne distingue pas »*, *« la
+forme française est contrainte, le texte ne tranche pas »*.
+
+C'est la même opération qu'au §4.11, déplacée d'un cran : là on restitue une
+ambiguïté que le texte porte, ici on restitue ==une distinction que notre
+écriture ajoute==.
+
+**Les autres cas, relevés et non traités.** Le français force au moins trois
+autres choix que l'hébreu ne fait pas, et aucun n'a été examiné :
+
+| ce que le français impose | ce que l'hébreu fait |
+|---|---|
+| une majuscule ou pas | rien — une seule forme de lettre |
+| un genre grammatical | il en a un, ==mais pas le même== — la **Ruach** est féminine |
+| un temps verbal | il marque ==l'aspect==, accompli ou non, pas la position dans le temps |
+
+Le troisième est le plus lourd et le plus ancien : chaque verbe traduit tranche
+déjà entre passé, présent et futur, là où l'hébreu dit seulement si l'action est
+==menée à son terme== ou non. Le corpus le fait à chaque ligne depuis le début.
+==Ce n'est pas un chantier à ouvrir aujourd'hui== — c'est une dette à connaître,
+et cette table existe pour qu'on ne la redécouvre pas une troisième fois.
+
 ### 4.12 Les noms propres
 
 **Règle absolue pour tout l'ONT :** Les prénoms et noms propres hébreux sont conservés dans leur forme hébraïque originale — jamais dans leur forme latine ou française traditionnelle.
