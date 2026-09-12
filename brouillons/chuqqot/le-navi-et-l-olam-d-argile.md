@@ -7,7 +7,7 @@
 ## L'énoncé
 
 Un **malʾakh** et un **naviʾ** font ==exactement le même geste== : recevoir un
-**davar** d'en haut, le porter à l'**ʾadam**.
+**davar** d'en haut, le porter à l'**ʾAdam**.
 
 La différence n'est pas de rang. Elle est dans ==ce qui reste quand la mission
 s'arrête==.

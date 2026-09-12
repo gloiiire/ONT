@@ -16,7 +16,7 @@ mission, et rendue avec elle.
 
 ### D'abord, pourquoi il faut quelqu'un entre les deux
 
-Le corpus dit une chose que nous lisons trop vite : ==l'**ʾadam** ne peut pas me
+Le corpus dit une chose que nous lisons trop vite : ==**ha-ʾAdam** ne peut pas me
 voir et vivre== (*Exode* 33:20).
 
 Ce n'est pas un interdit, comme une porte qu'on fermerait par principe. C'est un
@@ -107,7 +107,7 @@ sont vrais à la fois==, l'un par la source et l'autre par le mode.
 Le droit hébreu a une formule pour cette structure, et elle vaut bien au-delà du
 droit :
 
-> *shlucho shel adam kemoto* — ==l'envoyé d'un **ʾadam** est comme lui-même==.
+> *shlucho shel adam kemoto* — ==l'envoyé d'un **ʾAdam** est comme lui-même==.
 
 Un **shaliach** n'agit pas *à la place de* celui qui l'envoie, comme un
 remplaçant qu'on met là faute de mieux. Il ==est== celui qui l'envoie, pour la

@@ -157,7 +157,7 @@ paraît ==six fois==. Et la première de ces six est ==*Genèse* 19:16==.
 
 Arrête-toi là-dessus, parce que c'est vérifiable et que ça ne se plaide pas.
 
-Pas une occurrence dans le Jardin. Pas une au moment où l'**ʾadam** en est
+Pas une occurrence dans le Jardin. Pas une au moment où l'**ʾAdam** en est
 chassé. Pas une pendant le **mabbul**, où un seul homme bâtit une caisse pendant
 que le monde se remêle. Pas une à [[Bavel]]. Le mot n'entre dans le corpus ==qu'à
 [[Sedom]]==, et il n'y entre pas comme un ordre : ==il y entre comme une main==.
@@ -280,7 +280,7 @@ grand porteur de force du corpus est aussi celui que le corpus déclare le plus
 bas==.
 
 *Nombres* 12:3 : *« et l'**ʾish** [[Mosheh]] était *ʿanav* au plus haut point,
-==plus que tout l'**ʾadam** qui est sur la face de l'*ʾadamah*== »*. Le même
+==plus que tout **ha-ʾAdam** qui est sur la face de l'*ʾadamah*== »*. Le même
 homme tend la main sur une mer, se tient seul entre un peuple et un jugement, et
 porte quarante ans une charge que personne d'autre ne soulève.
 

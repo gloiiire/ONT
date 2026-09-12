@@ -172,14 +172,14 @@ pas ce qu'on croit (*Ésaïe* 2:11) :
 
 *ʿeinei gavhut ʾadam shafel, veshach rum ʾanashim, venisgav YHWH levado* (*ʿeinei
 gavhut ʾadam shafel* / עֵינֵי גַּבְהוּת אָדָם שָׁפֵל) — ==les yeux de la *gavhut*
-de l'**ʾadam** seront abaissés, la hauteur des **ʾanashim** ployée, et **YHWH**
+de **ha-ʾAdam** seront abaissés, la hauteur des **ʾanashim** ployée, et **YHWH**
 seul sera élevé en ce jour-là.==
 
 Deux choses sautent aux yeux, et on les manque toutes les deux quand on lit
 « orgueil ».
 
 ==Le verset nomme les yeux.== Pas seulement le **lev**, pas seulement la
-conduite : ==les yeux de la hauteur de l'**ʾadam**==. Ce que le texte décrit est
+conduite : ==les yeux de la hauteur de l'**ʾAdam**==. Ce que le texte décrit est
 ==une manière de regarder==. Et une manière de regarder est exactement ce dont l'**ʿolam** est
 fonction.
 
@@ -335,7 +335,7 @@ L'attaqué ne répond rien. Et le texte, à ce moment précis, glisse la phrase 
 lui vaut son nom dans tout le corpus : *vehaʾish Mosheh ʿanayv meʾod*
 (*vehaʾish Mosheh ʿanayv meʾod* / וְהָאִישׁ מֹשֶׁה עָנָיו מְאֹד) — ==et l'**ʾish**
 [[Mosheh]]
-était très **ʿanav**, plus que tout **ʾadam** sur la face de l'**ʾadamah**.==
+était très **ʿanav**, plus que tout **ʾAdam** sur la face de l'**ʾadamah**.==
 
 Puis, cinq versets plus loin, **YHWH** décrit ce que cet homme-là reçoit : *peh ʾel
 peh ʾadaber bo ... utemunat YHWH yabit* (*peh ʾel peh ʾadaber bo* / פֶּה אֶל פֶּה
