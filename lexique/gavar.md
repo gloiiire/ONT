@@ -4,7 +4,7 @@
 
 *ga-VAR* — deux syllabes, accent sur la dernière, ==qui est la règle générale== (§2.12).
 
-Le *g* est ==toujours dur==, comme dans « gare » — jamais le *g* de « geste ». C'est la faute probable, et elle vaut pour **gever**, **gevirah**, **gevurah** et **gibbor**, qui sont ce même mot.
+Le *g* est ==toujours dur==, comme dans « gare » — jamais le *g* de « geste ». C'est la faute probable, et elle vaut pour **gever**, *gevirah*, **gevurah** et **gibbor**, qui sont ce même mot.
 
 Le *v* est un ==bet sans dagesh==. Le *r* est un resh : ==roulé ou raclé selon les traditions, aucune n'est fautive== (§2.12).
 

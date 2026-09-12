@@ -16,7 +16,7 @@ Une maison de tentes, quelque part entre [[Kenaʿan]] et le désert. Il y a une 
 
 Le mot de cette fiche est celui-là. ==Il est bâti sur **gavar**, l'emporter== — la même racine que **gibbor** et que **gevurah** —, et il le dit au féminin : ==celle qui l'emporte chez elle==.
 
-Ce n'est donc pas un titre qu'on porte. C'est ==une position qui tient ou qui ne tient pas==, et le verbe que le récit lui oppose le montre sans commentaire : elle *devient légère*, elle perd du poids, elle perd de la **kavod**. Une **gevirah** qui n'a plus de poids dans le regard de sa maison a cessé d'être une **gevirah**, et il n'y a eu ni décision, ni destitution, ni un mot prononcé.
+Ce n'est donc pas un titre qu'on porte. C'est ==une position qui tient ou qui ne tient pas==, et le verbe que le récit lui oppose le montre sans commentaire : elle *devient légère*, elle perd du poids, elle perd de la **kavod**. Une **geveret** qui n'a plus de poids dans le regard de sa maison a cessé d'être une **geveret**, et il n'y a eu ni décision, ni destitution, ni un mot prononcé.
 
 ## Deux mots pour une seule relation
 
@@ -34,7 +34,7 @@ Le mot sort une fois de la maison, et c'est pour montrer de quoi il est fait.
 
 Une ville qui règne sur des royaumes s'entend dire qu'on ne l'appellera plus *maîtresse de royaumes* (*geveret mamlakhot* / גְּבֶרֶת מַמְלָכוֹת), *Ésaïe* 47:5. Puis le texte lui fait répéter ce qu'elle se disait : *tu as dit : **leʿolam** je serai maîtresse* (*vatomeri leʿolam ʾehyeh gevaret* / וַתֹּאמְרִי לְעוֹלָם אֶהְיֶה גְבָרֶת), verset 7.
 
-Regarde le mot qu'elle emploie pour sa propre durée : **leʿolam**, l'horizon qui se dérobe au regard. ==Elle n'a pas dit qu'elle serait forte ; elle a dit qu'elle ne verrait pas la fin.== Et le verset lui reproche exactement cela, et rien d'autre : *tu n'as pas mis ces choses sur ton **lev**, tu ne t'es pas souvenue de ce qui vient après*. Une **gevirah** est celle qui l'emporte ==maintenant==, et le mot ne promet rien au-delà.
+Regarde le mot qu'elle emploie pour sa propre durée : **leʿolam**, l'horizon qui se dérobe au regard. ==Elle n'a pas dit qu'elle serait forte ; elle a dit qu'elle ne verrait pas la fin.== Et le verset lui reproche exactement cela, et rien d'autre : *tu n'as pas mis ces choses sur ton **lev**, tu ne t'es pas souvenue de ce qui vient après*. Une **geveret** est celle qui l'emporte ==maintenant==, et le mot ne promet rien au-delà.
 
 ## La même racine au masculin, et elle est dans *Bereshit*
 
